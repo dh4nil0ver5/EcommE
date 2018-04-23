@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 21, 2018, 9:20:43 AM
+    Author     : MyProject
+*/
+.con-karyawan{
+    width: 80%;
+    margin: 0px auto;
+    text-align: center;
+    background: #ffffff;
+}
+.isi-kar{
+    width: 100%;
+}
+.isi-kar-a{
+    width: 5%;
+}
+.isi-kar-b{
+    width: 10%;
+}
+.isi-kar-b input{
+    width: 98%;
+}
+.isi-kar-c{
+    width: 40%;
+}
+.isi-kar-c input{
+    width: 98%;
+}
+.isi-kar-d{
+    width: 20%;
+}
+.isi-kar-d input{
+    width: 98%;
+}
+.isi-kar-e{
+    width: 20%;
+}
+.isi-kar-e input{
+    width: 98%;
+}
+.isi-kar-f{
+    width: 10%;
+}
+.head-karyawan{
+    width: 100%;
+    text-align: left;
+}

@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 19, 2018, 11:49:43 PM
+    Author     : MyProject
+*/
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    width: 25%;
+    margin: 1px auto;
+    margin-top: 10%;
+    margin-bottom: 1%;
+    text-align: center;
+}
+.none{
+    display: none;
+}
+.content{
+    margin: 1px auto;
+    width: 20%;
+}
+.form-all{
+    width: 100%;
+    background: #ffffff;
+    border-radius: 5px;
+}
+.form-cont-user{
+    display: inline-block;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 5px;
+}
+.form-cont-pass{
+    display: inline-block;
+    width: 100%;
+    background: #ffffff;
+    border-radius: 5px;
+}
+.in-data{
+    width: 95%;
+    padding: 10px 10px 10px 0px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    border: 0px rgba(255,255,255,0) solid;
+}
+.pas{
+    width: 95%;
+    padding: 10px 10px 10px 0px;
+    margin-bottom: 2%;
+    margin-left: 2%;
+    margin-top: 2%;
+    border: 0px rgba(255,255,255,0) solid;
+}
+.in-tag{
+    text-align: center;
+    width: 6%;
+    float: right;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    padding: 10px 10px 10px 0px;
+}
+.in-tag-pas{
+    text-align: center;
+    width: 6%;
+    float: right;
+    margin-bottom: 2%;
+    margin-top: 2%;
+    margin-right: 2%;
+    padding: 10px 10px 10px 0px;
+}
